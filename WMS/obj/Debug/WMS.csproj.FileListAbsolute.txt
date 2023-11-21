@@ -1,0 +1,543 @@
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Database.mdf
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Database_log.ldf
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Azure.Core.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Azure.Identity.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Buffers.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Memory.Data.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Memory.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Text.Json.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.ValueTuple.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Azure.Core.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Azure.Identity.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Buffers.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Memory.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Memory.Data.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Text.Json.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\System.ValueTuple.xml
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.csproj.AssemblyReference.cache
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.Product.resources
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.insertForm.resources
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.update.resources
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.update2.resources
+C:\Users\bitf20m029\source\repos\WMS\WMS\obj\Debug\WMS.deleteForm.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Database.mdf
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Database_log.ldf
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Azure.Core.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Azure.Identity.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Buffers.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Memory.Data.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Memory.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Text.Json.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.ValueTuple.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Azure.Core.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Azure.Identity.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Buffers.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Memory.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Memory.Data.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Text.Json.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\System.ValueTuple.xml
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.csproj.AssemblyReference.cache
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.deleteForm.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.deleteSupplier.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Product.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.insertForm.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Login.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Supplier.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.update.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.update2.resources
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\bitf20m029\Downloads\WMS\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Database.mdf
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Database_log.ldf
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Azure.Core.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Azure.Identity.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Buffers.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.Data.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Json.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.ValueTuple.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Azure.Core.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Azure.Identity.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Buffers.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.Data.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Json.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\System.ValueTuple.xml
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.AssemblyReference.cache
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.create.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.deleteForm.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.deleteSupplier.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.landing.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.landing2.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.Product.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.insertForm.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.Login.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.Supplier.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.update.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.update2.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.update2Supplier.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.updateSupplier.resources
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\bitf20m018\Downloads\WMS\WMS\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Database.mdf
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Database_log.ldf
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Core.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Identity.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Buffers.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.Data.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Json.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.ValueTuple.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Core.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Identity.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Buffers.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.Data.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Json.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.ValueTuple.xml
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.AssemblyReference.cache
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.create.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.deleteForm.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.deleteSupplier.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.landing.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.landing2.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Product.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.insertForm.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Login.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Supplier.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.update.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.update2.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.update2Supplier.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.updateSupplier.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.View.resources
+C:\Users\kashf\Downloads\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.OrderReceiptForm.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Database.mdf
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Database_log.ldf
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Core.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Identity.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Buffers.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.Data.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Json.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.ValueTuple.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Core.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Azure.Identity.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Buffers.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Memory.Data.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Text.Json.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\System.ValueTuple.xml
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.AssemblyReference.cache
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.create.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.deleteForm.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.deleteSupplier.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.landing.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.landing2.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.OrderReceiptForm.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Product.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.insertForm.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Login.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.Supplier.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.update.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.update2.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.update2Supplier.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.updateSupplier.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.View.resources
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\PMLS\Downloads\WMS (2)\WMS\WMS\WMS\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Database.mdf
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Database_log.ldf
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Azure.Core.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Azure.Identity.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Buffers.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Memory.Data.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Memory.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Text.Json.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.ValueTuple.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Azure.Core.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Azure.Identity.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Buffers.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Memory.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Memory.Data.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Text.Json.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\System.ValueTuple.xml
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.create.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.deleteForm.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.deleteSupplier.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.landing.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.landing2.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.OrderReceiptForm.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.Product.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.insertForm.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.Login.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.Supplier.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.update.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.update2.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.update2Supplier.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.updateSupplier.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.View.resources
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\PMLS\Desktop\WMS\WMS\obj\Debug\WMS.pdb

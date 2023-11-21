@@ -1,0 +1,72 @@
+--Project Sql
+--User Table
+CREATE TABLE [dbo].[Users] (
+    [Id]       INT           NOT NULL,
+    [Name]     VARCHAR (255) NOT NULL,
+    [Email]    VARCHAR (255) NOT NULL,
+    [Password] VARCHAR (255) NOT NULL,
+    [Type]     VARCHAR (255) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+--Suppliers Table
+CREATE TABLE [dbo].[Suppliers] (
+    [Id]          INT           IDENTITY (1, 1) NOT NULL,
+    [Name]        VARCHAR (255) NOT NULL,
+    [phone]       VARCHAR (255) NOT NULL,
+    [payment]     VARCHAR (255) NOT NULL,
+    [units]       VARCHAR (255) NOT NULL,
+    [priceU]      VARCHAR (255) NOT NULL,
+    [productType] VARCHAR (255) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+--Products Table
+CREATE TABLE [dbo].[Product] (
+    [SKU]         INT             IDENTITY (1, 1) NOT NULL,
+    [Name]        NVARCHAR (255)  NULL,
+    [Description] NVARCHAR (MAX)  NULL,
+    [Price]       NVARCHAR (MAX) NULL,
+    [StockLevel]  NVARCHAR (MAX)             NULL,
+    PRIMARY KEY CLUSTERED ([SKU] ASC)
+);
+
+--Orders Table
+CREATE TABLE [dbo].[Orders] (
+    [ID]              INT            IDENTITY (1, 1) NOT NULL,
+    [ProductName]     NVARCHAR (255) NOT NULL,
+    [ProductUnit]     NVARCHAR (255) NOT NULL,
+    [PaymentMethod]   NVARCHAR (255) NOT NULL,
+    [PaymentTerms]    NVARCHAR (50)  NOT NULL,
+    [ShippingAddress] NVARCHAR (255) NOT NULL,
+    [TimeStamp]       DATETIME       DEFAULT (getdate()) NOT NULL,
+    [TotalPrice]      NVARCHAR (255) NOT NULL,
+    [DeliveryDate]    DATE           NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
+--DML Queries( Only users were inserted manually, other DML operations will be performed according to users input)
+--Sample Users
+INSERT INTO [dbo].[Users] ([Id], [Name], [Email], [Password], [Type]) VALUES (1, 'Deeba', 'deebaumar02', '123', 'Admin')
+INSERT INTO [dbo].[Users] ([Id], [Name], [Email], [Password], [Type]) VALUES (2, 'Arooba', 'aroobahamad02', '123', 'Customer')
+INSERT INTO [dbo].[Users] ([Id], [Name], [Email], [Password], [Type]) VALUES (3, 'Kashaf', 'kash', '123', 'Customer')
+
+--Sample Suppliers
+SET IDENTITY_INSERT [dbo].[Suppliers] ON
+INSERT INTO [dbo].[Suppliers] ([Id], [Name], [phone], [payment], [units], [priceU], [productType]) VALUES (3, 'kashaf', '123', 'Cash', '10', '1000', 'Cricket Bats')
+INSERT INTO [dbo].[Suppliers] ([Id], [Name], [phone], [payment], [units], [priceU], [productType]) VALUES (4, 'Huda', '0900', 'Cash', '10', '15000', 'Mirrors')
+INSERT INTO [dbo].[Suppliers] ([Id], [Name], [phone], [payment], [units], [priceU], [productType]) VALUES (5, 'Ayesha', '0309', 'Credit Card', '10', '250', 'Stuff Toys')
+SET IDENTITY_INSERT [dbo].[Suppliers] OFF
+
+--Sample Products (suppliers and products are related)
+SET IDENTITY_INSERT [dbo].[Product] ON
+INSERT INTO [dbo].[Product] ([SKU], [Name], [Description], [Price], [StockLevel]) VALUES (2, 'Cricket Bats', 'Wooden', CAST(1000.00 AS Decimal(10, 2)), 10)
+INSERT INTO [dbo].[Product] ([SKU], [Name], [Description], [Price], [StockLevel]) VALUES (3, 'Mirrors', 'Full Length', CAST(15000.00 AS Decimal(10, 2)), 2)
+SET IDENTITY_INSERT [dbo].[Product] OFF
+
+--Sample Orders (Customers and products are related)
+SET IDENTITY_INSERT [dbo].[Orders] ON
+INSERT INTO [dbo].[Orders] ([ID], [ProductName], [ProductUnit], [PaymentMethod], [PaymentTerms], [ShippingAddress], [TimeStamp], [TotalPrice], [DeliveryDate]) VALUES (7, 'Stuff Toys', '9', 'Credit Card', '20-30 Days', 'London', '2023-11-16 17:49:44', '2250.00', '2023-12-06')
+INSERT INTO [dbo].[Orders] ([ID], [ProductName], [ProductUnit], [PaymentMethod], [PaymentTerms], [ShippingAddress], [TimeStamp], [TotalPrice], [DeliveryDate]) VALUES (8, 'Mirrors', '1', 'Credit Card', '10-20 Days', 'Lahore', '2023-11-16 18:10:41', '15000.00', '2023-12-06')
+SET IDENTITY_INSERT [dbo].[Orders] OFF
